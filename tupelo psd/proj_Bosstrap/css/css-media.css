@@ -1,0 +1,50 @@
+/* screen lg */
+
+
+/* screen md */
+
+@media all and (max-width: 1200px) {
+    p {
+        color: blue;
+        text-align: center;
+    }
+    .banner{
+        margin : 0 auto;
+        background-color : rgba(4, 0, 255, 0.589);
+    }
+    
+}
+
+
+/* screen sm */
+
+@media all and (max-width: 992px) {
+    /* .size-img {
+        width: 100%;
+    } */
+    .couper {
+        font-size: 80%;
+    }
+    p {
+        color: red;
+        text-align: center;
+    }
+    .banner{
+        margin : 0 auto;
+        background-color : rgb(238, 69, 2);
+    }
+}
+
+
+/* sreen xl */
+
+@media all and (max-width: 768px) {
+    p {
+        color: rgb(193, 226, 4);
+        text-align: center;
+    }
+    .banner{
+        margin : 0 auto;
+        background-color : rgb(193, 226, 4);
+    }
+}

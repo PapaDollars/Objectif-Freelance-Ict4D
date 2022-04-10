@@ -1,0 +1,54 @@
+h2
+{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 28px;
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 27px;
+}
+.bout1
+{
+    
+    width: 96px;
+    color: rgb(30, 104, 82);
+}
+.bout2
+{
+    
+    width: 96px;
+    color: fuchsia;
+}
+.bout3
+{
+   /* box-shadow: 10px 0PX;*/
+    width: 96px;
+    color: rgb(29, 13, 99);
+}
+.bout4
+{
+    
+    width: 96px;
+    color: royalblue;
+
+}
+.bot{
+    word-spacing: 347px;
+    border-bottom: solid;
+    width: auto;
+    border-top: solid ;
+    border-left: solid;
+    border-right: solid;
+    border-spacing: 0ch;
+}
+.bot input[type="text"]:hover
+{
+    cursor: pointer;
+    background: aqua;
+    color: #000;
+
+
+}

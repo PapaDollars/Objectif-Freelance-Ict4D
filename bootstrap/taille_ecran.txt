@@ -1,0 +1,8 @@
+<!-- 
+
+ lg : 1200 // Superieur a ... ecrans large
+ md : 992 // Superieur a ... taille moyenne
+ sm : 768 // Superieur a ... tablette
+ xl : -768 Inferieur a ... mobile
+
+ -->

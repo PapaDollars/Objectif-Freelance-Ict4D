@@ -1,0 +1,46 @@
+.header{
+     display: flex;
+     background-color: gray;
+     width: 80%;
+     height: 15%;
+     margin: 0% 5% 0% 5%;
+     padding: 2% 5% 2% 5%;
+    }
+.corps{
+    background-color: green;
+    width: 80%;
+    height: 50%;
+    margin: 0% 5% 0% 5%;
+    padding: 2% 5% 2% 5%;
+
+}
+.footer{
+    background-color: blue;
+    width: 80%;
+    margin: 0% 5% 0% 5%;
+    padding: 2% 5% 2% 5%;
+}
+.p{
+    text-align: center;
+    font-size: 30;
+}
+#menu_1{
+    text-align: center;
+    margin: 6% 5% 0% 5%;
+}
+#menu_2{
+    text-align: center;
+    margin: 6% 5% 0% 5%;
+}
+#menu_3{
+    text-align: center;
+    margin: 6% 5% 0% 5%;
+}
+#menu_4{
+    text-align: center;
+    margin: 6% 5% 0% 5%;
+}
+#image{
+    margin: -1% 5% 0% -2%;
+
+}

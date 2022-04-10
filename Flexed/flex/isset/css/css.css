@@ -1,0 +1,12 @@
+.container-header{
+    max-width:1200px;
+    margin:0 auto;
+}
+.block-head-1{
+    display:inline-block;
+    vertical-align:middle;
+    color:black;
+}
+a:hover{
+    color:white;
+}

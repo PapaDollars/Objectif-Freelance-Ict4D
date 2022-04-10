@@ -1,0 +1,383 @@
+ #head{
+    display:flex;
+    background-color:rgb(50, 182, 50);
+    margin-top:3%;
+}
+#div_1{
+    margin: 1% 1% 1% 23%;
+    font-size: 90%;
+}
+#div_2{
+    margin: 1% 1% 1% 6%;
+    font-size: 90%;
+}
+#haut{
+    font-size: 80%;
+}
+#mail{
+    margin-left: 15%;
+    width: 1%;
+    height: 2%;
+}
+#logo{
+    margin-left: 15%;
+    margin-bottom: -2%;
+    width: 12%;
+    height: 10%;
+}
+#phone{
+    margin-left: 20%;
+    width: 1%;
+    height: 2%;
+}
+.color{
+    color:black;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    color:white;
+    
+}
+#gather{
+    margin-top:-50%;
+    font-size:500%;
+    float:center;
+    margin-left:18%;
+}
+#gat{
+    color:rgb(42, 160, 42);
+    margin-bottom:-7%;
+}
+#ga{
+    border: 0.1rem rgb(8, 177, 8) solid;
+    width:10%;
+    height:5%;
+    text-align:center;
+}
+#gath{
+    margin-bottom:5%;
+}
+#banner{
+    width: 100%;
+    height: 100%;   
+}
+#croos{
+    margin-top: -12%;
+    width: 100%;
+}
+#div_3{
+    box-shadow: 5px 5px 5px 5px rgb(150, 150, 150, 250);
+    margin: 25% 0% 0% 0%;
+    padding: 5% 0% 5% 10%;
+    width:40%;
+    float:left;
+}
+#about_us{
+    margin-left: 20%;
+    font-size:250%;
+}
+#color_about{
+    color: rgb(8, 177, 8);
+}
+#about{
+    float:right;
+    margin-top:25%;
+    width: 40%;
+    height: 80%;   
+}
+#how{
+    margin-top:75%;
+    margin-left:40%;
+    color:rgb(8, 177, 8);
+}
+.p{
+    color:black;
+}
+#un{
+    margin-top:5%;
+    margin-left:5%;
+    width: 20%;
+    height: 40%;   
+}
+#deux{
+    margin-top:-15%;
+    margin-left:29%;
+    width: 25%;
+    height: 50%;   
+    float:center;
+}
+#section_deux{
+    margin-left:30%;
+}
+#trois{
+    margin-top:-25%;
+    margin-left:62%;
+    width: 35%;
+    height: 70%;   
+}
+#section_trois{
+    margin-left:32%;
+}
+#read{
+    margin-top:15%;
+    margin-left:5%;
+    width:10%;
+    height:5%;
+    text-align:center;       
+    border: 0.1rem rgb(8, 177, 8) solid;
+}
+
+#yoga{
+    box-shadow: 0px 0px 5px 0px rgb(150, 150, 150, 250);
+    margin: 5% 0% 0% 0%;
+    padding: 3% 5% 3% 5%;
+    width:90%;
+    float:left;
+}
+#do{
+    color:rgb(8, 177, 8);
+    text-align:center;
+    font-size:300%;
+}
+#yo{
+    color:rgb(8, 177, 8);
+    text-align:center;
+    font-size:70%;
+}
+.our{
+    margin-top:60%;
+    color:rgb(8, 177, 8);
+    text-align:center;
+    font-size:200%;
+}
+#basic{
+    margin: 5% 0% 0% 10%;
+    width:20%;
+    height:50%;
+    float:left;
+}
+#plan_basic{
+    margin: 15% 0% 0% 20%;
+    width:50%;
+    height:10%;
+    border: 0.1rem rgb(8, 177, 8) solid;
+    text-align:center;
+}
+#quarente{
+    margin: 40% 0% 0% 2%;
+    font-size:350%;
+   text-align:center; 
+   color:rgb(8, 177, 8);
+}
+.text_quarente{
+    font-size:90%;
+    text-align:center; 
+ }
+#basic_h{
+    margin: 0% 0% -30% 0%;
+    padding: 3% 0% 2% 0%; 
+    width:100%;
+    height:10%;
+    float:center;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+#standard{
+    box-shadow: 5px 5px 5px 5px rgb(150, 150, 150, 250);
+    margin: 5% 0% 0% 10%;
+    width:20%;
+    height:50%;
+    float:left;
+}
+#standard_h{
+    margin: 0% 0% -30% 0%;
+    padding: 3% 0% 2% 0%; 
+    width:100%;
+    height:10%;
+    float:center;
+    background-color:rgb(8, 177, 8);
+    color:white;
+    text-align:center;
+}
+#cinquente{
+    margin: 40% 0% 0% 2%;
+    font-size:350%;
+   text-align:center; 
+   color:rgb(8, 177, 8);
+}
+.text_cinquente{
+    font-size:90%;
+    text-align:center; 
+ }
+ #plan_stantard{
+    margin: 3% 0% 3% 25%;
+    width:50%;
+    height:10%;
+    border: 0.1rem rgb(8, 177, 8) solid;
+    text-align:center;
+}
+#img{
+    width:100%;
+}
+#premium{
+    margin: 5% 0% 0% 10%;
+    width:20%;
+    height:50%;
+    float:left;
+}
+#premium_h{
+    margin: 0% 0% -30% 0%;
+    padding: 3% 0% 2% 0%; 
+    width:100%;
+    height:10%;
+    float:center;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+#plan_premium{
+    margin: 15% 0% 0% 25%;
+    width:50%;
+    height:10%;
+    border: 0.1rem rgb(8, 177, 8) solid;
+    text-align:center;
+}
+#sign{
+    margin: 38% 0% 0% 0%;
+    padding: 5% 5% 5% 5%;
+    width:90%;
+    height:10%;
+    background-color:rgb(8, 177, 8);
+}
+#sign_up{
+    margin: -13% 0% 0% 35%;
+    color:white;
+    font-size:250%;
+    float:center;
+}
+#your{
+    margin-left: 38%;
+    margin-top: 2%;
+    padding-left:2%;
+    width:23%;
+    height:5%;
+    border: 0rem solid;
+}
+#sub{
+    margin-left:-1%;
+    width:10%;
+    height:5%;
+    color:white;
+    background:black;
+    text-align:center;
+    border: 0rem solid;
+}
+#the{
+    font-size:250%;
+    margin: 10% 0% 0% 30%;
+    color:rgb(8, 177, 8);
+}
+#back_video{
+    margin: 8% 0% 0% 20%;
+    padding: 5% 5% 5% 5%;
+    width:50%;
+    height:20%;
+    background-color:rgb(8, 177, 8);
+}
+#contact{
+    margin: 3% 0% 0% 25%;
+    color:rgb(8, 177, 8);
+}
+#video{
+    margin: -23% 0% 0% 25%;
+    width:50%;
+    height:40%;
+    float:center;
+}
+#form{
+    margin: 3% 0%;
+    padding: 5% 5% 5% 5%;
+    width:40%;
+    height: 40%;
+    float:left;
+    background-color: rgb(5, 51, 11);
+}
+.name_form{
+    margin:-2% 0% 0% 35%;
+    color:rgb(112, 112, 112);
+    font-size:80%;
+}
+#send{
+    float:right;
+    padding:1% 5% 1% 5%;
+    border: 0rem solid;
+}
+#phone_mail{
+    color:white;
+    width:5%;
+    height:7%;
+}
+#mail_phone{
+    color:white;
+    width:5%;
+    height:5%;
+}
+#adr{
+    margin-left:8%;
+}
+.p_w{
+    margin-left: 5%;
+    color:white;                        
+    float:right;
+    font-size:90%;
+}
+.tif{
+    margin-left: 30%;
+    padding-right: -10%;
+    width:40%;
+    height:15%;
+}
+#map{
+    margin-top: 3%;
+    width:50%;
+    height:60.5%;
+    float:right;
+}
+#google{
+    margin: -32% 0% 0% 60%;
+    padding: 0% 0% 0% 3%;
+    font-size:80%;
+    width:25%;
+    height: 25%;
+    float:left;
+    background-color: white;
+    border-radius:2%;
+}
+#ok{
+    width:15%;
+    margin-left:20%;
+    color:blue;
+    padding:0.5% 0% 0.5% 0%;
+    border-radius:8%;
+    border:0.01rem black solid;
+    text-align:center;
+}
+#site{
+    color:gray;
+}
+#bas{
+    margin: 32% 0% 0% 0%;
+    padding:2% 0% 0% 0%;
+    width:100%;
+    height:7%;
+    text-align:center;
+    background-color:rgb(8, 177, 8);
+}
+#text_bas{
+    margin-left: -50%;
+    color:white;
+    font-size:70%;
+}

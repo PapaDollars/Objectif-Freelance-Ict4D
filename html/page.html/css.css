@@ -1,0 +1,31 @@
+/*p
+{
+    width: 350;
+    border:1px solid black;
+    text-align:justify;
+    padding:12px;
+    margin: 50px;
+}*/
+nav
+{
+    display: inline-block;
+    width: :170px;
+    border:1px solid blue;
+    vertical-align:top;
+}
+section
+{
+    margin-left:170px;
+    padding: 5px;
+    display: inline-block;
+    border:1px solid blue;
+    vertical-align: top;
+}
+/*strong
+{
+    background-color:red;
+    color:yellow;
+    position:relative;
+    left: 55px;
+    top:10px;
+}
